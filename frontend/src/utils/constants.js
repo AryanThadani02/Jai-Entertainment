@@ -1,2 +1,2 @@
-export const api = "https://jai-entertainment.vercel.app";
+export const api = "https://jai-entertainment.vercel.app"
 
