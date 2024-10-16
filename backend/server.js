@@ -19,7 +19,7 @@ app.use(express.json()); // Middleware to parse JSON bodies
 app.use(cookieParser());
 
 app.use(cors({
-    origin: "https://jai-entertainment-1.onrender.com",
+    origin: "jai-entertainment-8euy.vercel.app",
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
     credentials: true,
 }));
